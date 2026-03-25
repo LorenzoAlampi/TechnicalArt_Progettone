@@ -77,5 +77,5 @@ DerivedDataCache/*
 # ==========================================
 # Ignora gli asset pesanti su OneDrive (Symlink)
 # ==========================================
-**/Content/File_Pesanti_Over500MB/
-File_Pesanti_Over500MB/
+# Ignora il Symlink di OneDrive
+File_Pesanti_Over500MB
